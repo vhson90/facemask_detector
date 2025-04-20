@@ -2,8 +2,8 @@
 
 ## 🧠 Mục tiêu
 Phân loại hình ảnh khuôn mặt thành **6 lớp** dựa trên tình trạng đeo khẩu trang bằng mô hình YOLOv8n:
-- `mc` – Đeo khẩu trang dưới cằm
-- `mmc` – Đeo khẩu trang che miệng nhưng không che mũi
+- `incorrect_mc` – Đeo khẩu trang dưới cằm
+- `incorrect_mmc` – Đeo khẩu trang che miệng nhưng không che mũi
 - `mask_simple` – Khẩu trang đơn giản
 - `mask_complex` – Khẩu trang có hoa văn
 - `no_mask_simple` – Không đeo khẩu trang (mặt trống)

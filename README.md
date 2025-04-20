@@ -39,8 +39,9 @@ Mô hình được huấn luyện trên nền tảng Kaggle với GPU T4 x2.
 📎 **Đường dẫn đến Notebook Kaggle:** [*Kaggle Project*](https://www.kaggle.com/code/vohoaison/face-mask-detection)
 
 Kết quả huấn luyện:
-- Accuracy đạt được trên tập test: *(cập nhật sau khi train)*
+- Accuracy đạt được trên tập test: > 96%
 - Mô hình có khoảng **3.4 BFLOPs** (đạt yêu cầu < 7 BFLOPs)
+- FPS: Đạt ~ 30 FPS (theo kết quả demo)
 
 ---
 
